@@ -10,7 +10,19 @@ Tazro Ohta, Ph.D.
 
 - 2005/04/01-2009/03/31 Faculty of Agriculture, Kobe University (BSc)
 - 2009/04/01-2011/03/31 Faculty of Agriculture, The Tokyo University (MSc)
-- 2019/03/22 School of Life Science, The Graduate University for Advanced Studies, SOKENDAI (PhD by publication)
+
+## Degree
+
+2019/03/22 School of Life Science, The Graduate University for Advanced Studies, SOKENDAI (PhD by publication)
+
+## Work
+
+- Database Center for Life Science, Joint Support-Center for Data Science Research, Research Organization of Information and Systems
+  - 2009/07/01-2011/03/31 Research Assistant
+  - 2011/04/01-2015/03/41 Project Technical Specialist
+  - 2015/04/01-2019/07/31 Project Researcher
+  - 2019/08/01-           Project Assistant Professor
+
 
 ## Publications (Peer-reviewed)
 
