@@ -1,13 +1,21 @@
-# 業績一覧
+# CV
 
-大田達郎 / Tazro Ohta
+大田達郎 博士 (理学)
 
 - ORCID: https://orcid.org/0000-0003-3777-5945
 - GitHub: http://github.com/inutano
 - Twitter: https://twitter.com/inutano
 
+## 学歴
+
+- 2005/04/01-2009/03/31 神戸大学農学部 生物環境制御学科 (学士・農学)
+- 2009/04/01-2011/03/31 東京大学大学院 農学生命科学研究科 生産・環境生物学専攻 (修士・農学)
+- 2019/03/22 総合研究大学院大学 生命科学研究科 遺伝学専攻 (博士・理学 / 論文博士)
+
 ## 査読付き論文
 
+1. Ikeda S, Ono H, **Ohta T**, Chiba H, Naito Y, Moriya Y, Kawashima S, Yamamoto Y, Okamoto S, Goto S, Katayama T. TogoID: an exploratory ID converter to bridge biological datasets. Robinson P, ed. Bioinformatics. Published online July 8, 2022. doi:10.1093/bioinformatics/btac491
+1. Zou Z, **Ohta T**, Miura F, Oki S. ChIP-Atlas 2021 update: a data-mining suite for exploring epigenomic landscapes by fully integrating ChIP-seq, ATAC-seq and Bisulfite-seq data. Nucleic Acids Research. 2022;50(W1):W175-W182. doi:10.1093/nar/gkac199
 1. Amariuta T, Ishigaki K, Sugishita H, **Ohta T**, Koido M, Dey KK, Matsuda K, Murakami Y, Price AL, Kawakami E, Terao C, Raychaudhuri S. Improving the trans-ancestry portability of polygenic risk scores by prioritizing variants in predicted cell-type-specific regulatory elements. Nature Genetics. 2020;52(12):1346–1354. doi:10.1038/s41588-020-00740-8.
 1. Vos RA, Katayama T, Mishima H, Kawano S, Kawashima S, Kim J-D, Moriya Y, Tokimatsu T, Yamaguchi A, Yamamoto Y, Wu H, Amstutz P, Antezana E, Aoki NP, Arakawa K, Bolleman JT, Bolton E, Bonnal RJP, Bono H, Burger K, Chiba H, Cohen KB, Deutsch EW, Fernández-Breis JT, Fu G, Fujisawa T, Fukushima A, García A, Goto N, Groza T, Hercus C, Hoehndorf R, Itaya K, Juty N, Kawashima T, Kim J-H, Kinjo AR, Kotera M, Kozaki K, Kumagai S, Kushida T, Lütteke T, Matsubara M, Miyamoto J, Mohsen A, Mori H, Naito Y, Nakazato T, Nguyen-Xuan J, Nishida K, Nishida N, Nishide H, Ogishima S, **Ohta T**, Okuda S, Paten B, Perret J-L, Prathipati P, Prins P, Queralt-Rosinach N, Shinmachi D, Suzuki S, Tabata T, Takatsuki T, Taylor K, Thompson M, Uchiyama I, Vieira B, Wei C-H, Wilkinson M, Yamada I, Yamanaka R, Yoshitake K, Yoshizawa AC, Dumontier M, Kosaki K, Takagi T. BioHackathon 2015: Semantics of data for life sciences and reproducible research. F1000Research. 2020;9:136. doi:10.12688/f1000research.18236.1.
 1. Terao C, Momozawa Y, Ishigaki K, Kawakami E, Akiyama M, Loh P-R, Genovese G, Sugishita H, **Ohta T**, Hirata M, Perry JRB, Matsuda K, Murakami Y, Kubo M, Kamatani Y. GWAS of mosaic loss of chromosome Y highlights genetic effects on blood cell differentiation. Nature Communications. 2019;10(1). doi:10.1038/s41467-019-12705-5.
