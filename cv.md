@@ -8,8 +8,8 @@
 
 ## 学歴
 
-- 2005/04/01-2009/03/31 神戸大学農学部 生物環境制御学科 (学士・農学)
-- 2009/04/01-2011/03/31 東京大学大学院 農学生命科学研究科 生産・環境生物学専攻 (修士・農学)
+- 2005/04/01-2009/03/25 神戸大学農学部 生物環境制御学科 (学士・農学)
+- 2009/04/01-2011/03/24 東京大学大学院 農学生命科学研究科 生産・環境生物学専攻 (修士・農学)
 
 ## 学位
 
@@ -19,9 +19,11 @@
 
 - 情報・システム研究機構 データサイエンス共同利用基盤施設 ライフサイエンス統合データベースセンター
   - 2009/07/01-2011/03/31 リサーチアシスタント
-  - 2011/04/01-2015/03/41 特任技術専門員
+  - 2011/04/01-2015/03/31 特任技術専門員
   - 2015/04/01-2019/07/31 特任研究員
   - 2019/08/01-           特任助教
+- 理化学研究所
+  - 2019/05/02- 客員研究員
 
 ## 査読付き論文
 
@@ -40,48 +42,92 @@
 1. Kawakami E, Nakaoka S, **Ohta T**, Kitano H. Weighted enrichment method for prediction of transcription regulators from transcriptome and global chromatin immunoprecipitation data. Nucleic Acids Research. 2016;44(11):5010–5021. doi:10.1093/nar/gkw355.
 1. Nakazato T, **Ohta T**, Bono H. Experimental Design-Based Functional Mining and Characterization of High-Throughput Sequencing Data in the Sequence Read Archive. Aziz RK, ed. PLoS ONE. 2013;8(10):e77910. doi:10.1371/journal.pone.0077910.
 
-## 研究会 / 口頭発表
+## 総説
 
-1. 第19回オープンバイオ研究会 (2015/3/20-21)
-1. 大田達郎 オープンサイエンスアワード 第3回生命医薬情報学連合大会 (2014/10/2-4)
-1. Tazro Ohta Tools and Webapps for Public High-Throughput Sequencing Database.
- Illumina's BaseSpace Worldwide Developers Conference (2014/10/28)
-1. 大田達郎 大量NGSデータの並列処理と共用スパコンにおける環境構築の今後について 遺伝学研究所ユーザーミーティング (2014/7/22)
-1. 大田達郎, #openbio18 第18回オープンバイオ研究会 (2014/03/20-21)
-1. 大田達郎, 片山俊明 BioHack コンペティション 日本バイオインフォマティクス学会 (2013)
-1. 大田達郎，仲里猛留，坊農秀雅 DBCLS SRA: 公共NGSデータの再利用促進技術開発 トーゴーの日シンポジウム (2013/10/05)
-1. 大田達郎, 仲里猛留, 坊農秀雅 データベースから見た次世代シーケンスによる研究のこれまでとこれから - 研究者を助けるためにデータベースは何をすべきか 第36回日本分子生物学会 (2013)
-1. Ohta T, Nakazato T, Bono H. Advanced search interface of public NGSeq database for efficient data search 2012; 第35回日本分子生物学会
+1. **大田達郎**. 「オンライン国際ハッカソンを成功させるために必要な10のこと、あるいはCOVID19 Virtual BioHackathonはどのようにして成立したのか」 日本バイオインフォマティクス学会ニュースレター　第39号 (2021/03/30) https://www.jsbi.org/publication/newsletter/
+1. **大田達郎**. 「データ解析を再現するために必要な情報を実行可能な形式で記述する」 日本バイオインフォマティクス学会ニュースレター　第35号 (2019/04) https://www.jsbi.org/publication/newsletter/
+1. 寺田朋子, **大田達郎**, 清水謙多郎, 門田幸二. 「次世代シーケンサーデータの解析手法 第 12 回 Galaxy：ヒストリーとワークフロー」 日本乳酸菌学会誌 29巻 (2018) 2号 (2018/07/02) https://doi.org/10.4109/jslab.29.79
+1. **大田 達郎**, 寺田朋子, 清水謙多郎, 門田幸二. 「次世代シーケンサーデータの解析手法 第 11 回 統合データ解析環境 Galaxy」 日本乳酸菌学会誌 28巻 (2017) 3号 (2017/11/10) https://doi.org/10.4109/jslab.28.167
+1. **大田達郎**, 仲里猛留 「「使える」公共NGSデータをすばやく手に入れるために: SRAsと鎖鋸」 日本バイオインフォマティクス学会ニュースレター 第24号 (2012/03) https://www.jsbi.org/publication/newsletter/
+
+## 著書
+
+1. **Ohta T**, Shiwa Y. "Hybrid genome assembly of short and long reads in Galaxy", Editor: Kazuharu Arakawa, Nanopore Sequencing, Methods in Molecular Biology volume 2632 (In printing) ISBN: 978-1-0716-2995-6
+1. **大田達郎**. 「Digital Expression Explorer 2」 小野浩雅/編, 実験医学増刊 Vol.40 No.17 バイオDBとウェブツール　ラボで使える最新70選 (2022/10/20) ISBN 978-4-7581-0406-7
+1. Oki S, **Ohta T**. "ChIP-Atlas", Editor: Imad Abugessaisa and Takeya Kasukawa, Practical Guide to Life Science Databases (2022/01/06) ISBN: 978-981-16-5812-9
+1. **大田達郎**, 志波優. 「DRY解析環境のセットアップとデータ解析プラットフォーム Galaxy の使い方」 荒川和晴, 宮本真理/編, 実験医学別冊 ロングリードWET&DRY解析ガイド (2021/09/21) ISBN 978-4-7581-2253-5
+1. **大田達郎**. 「3 分で学ぶ GitHub の使い方〜作成したプログラムをオープンソースで公開する〜」 清水厚志, 坊農秀雅/編, 次世代シークエンサーDRY解析教本　改訂第2版 (2019/12/12) ISBN_13：
+978-4-7809-0983-8
+1. **大田達郎**. 「公共データベースに登録された NGS データの分布を可視化する」 清水厚志, 坊農秀雅/編, 次世代シークエンサーDRY解析教本　改訂第2版 (2019/12/12) ISBN_13：
+978-4-7809-0983-8
+1. **大田達郎**, 石井学, 末竹裕貴, 丹生智也, 山田航暉, 安水良明. 「CWL（Common Workflow Language）があれば、DRY解析はもう怖くない」 清水厚志, 坊農秀雅/編, 次世代シークエンサーDRY解析教本　改訂第2版 (2019/12/12) ISBN_13：
+978-4-7809-0983-8
+1. **大田達郎**. 「wtdbg2 を Docker Desktop for Mac で動かす」 清水厚志, 坊農秀雅/編, 次世代シークエンサーDRY解析教本　改訂第2版 (2019/12/12) ISBN_13：
+978-4-7809-0983-8
+1. 沖真弥，**大田達郎**. 「ChIP-Atlas：既報のChIP-seqデータをフル活用するためのウェブサービス」 実験医学 2019年10月号 Vol.37 No.16 (2019/09/20) ISBN 978-4-7581-2524-6
+1. 沖真弥, **大田達郎**. MEDICAL TOPICS 第71回 「ChIP-Atlas:公共ChIP-seqデータを統合的に活用するためのウェブサービス」 THE LUNG perspectives Vol.27 No.3 243-249,194 (2019/08/30) ISBN	978-4-7792-2305-1
+1. 川上英良, **大田達郎** 「公共ハイスループットChIPデータを用いた遺伝子制御ネットワークの構築とその活用法」 実験医学増刊 Vol.35 No.5 生命科学で使える はじめての数理モデルとシミュレーション 羊土社 (2017/3/9) ISBN-13: 978-4758103619
+1. **大田達郎** 「練習用公開データの選び方」 細胞工学別冊 次世代シークエンサーDRY解析教本 学研プラス (2015/10/15) ISBN-13: 978-4780909203
+1. **大田達郎**, 仲里猛留 「DBCLS SRA - 公共NGSデータ検索システム」 実験医学増刊 Vol.32 No.20 今日から使える! データベース・ウェブツール 達人になるための実践ガイド100 羊土社 (2014/12/2) ISBN-13: 978-4758103435
+
+## 学会/研究会 口頭発表
+
+1. "Yevis: System to support building a workflow registry with automated quality control", Bioinformatics Open Source Conference COSI, 30th Conference on Intelligent Systems for Molecular Biology (ISMB2022) (2022/07/14)
+1. "Demonstration: Common Workflow Language", 2022年度 日本バイオインフォマティクス学会年会 第11回 生命医薬情報学連合大会 (2022/09/13)
+1. "Sapporo: an implementation of the GA4GH Workflow Execution Service standard", Workshop: Federating computational analyses with GA4GH standards, Basel Computational Biology Conference (2021/09/13)
+1. "Sapporo: an implementation of GA4GH Workflow Execution Service standard to bridge the different workflow language communities", Bioinformatics Open Source Conference COSI, 29th Conference on Intelligent Systems for Molecular Biology and the 20th European Conference on Computational Biology (ISMB/ECCB 2021) (2022/07/14)
+1. "Sapporo: An Implementation Of Workflow Execution Service", 2021 Common Workflow Language Virtual Conference (2021/02/09)
+1. "Standardization of biological sample information database", International Symposium “Global Collaboration on Data beyond Disciplines” (2020/9/25)
+1. "SAPPORO: workflow management system that supports continuous testing of workflows", Bioinformatics Open Source Conference COSI, 27th Conference on Intelligent Systems for Molecular Biology and the 18th European Conference on Computational Biology (ISMB/ECCB 2019) (2019/07/25)
+1. "Collecting runtime metrics of genome analysis workflows by CWL-metrics", Bioinformatics Open Source Conference COSI, 27th Conference on Intelligent Systems for Molecular Biology and the 18th European Conference on Computational Biology (ISMB/ECCB 2019) (2019/07/25)
+1. "ワークフロー言語でデータ解析ワークフローを記述する", 希少疾患インフォマティクス研究会2 (2020/02/17)
+1. "Workflows that run everywhere and where to run them", CWL Workshop Tokyo 2018 (2018/12/08)
+1. "Improve portability of bioinformatics software across HPC and cloud infrastructures", 6th International IBM Cloud Academy Conference 2018 (2018/05/25)
+1. "公共データベースに登録されたNGSデータを検索・活用する", 第41回日本分子生物学会年会 ワークショップ "いかにして公共データベースを生命科学研究に活用するか？" (2018/11/29)
+1. "Galaxyを使ったデータ解析チュートリアル", 2017年度生命科学系学会合同年次大会 フォーラム "統合データ解析環境 Galaxy を使った再現可能なデータ解析" (2017/12/07)
+1. "インタークラウドを活用したゲノムデータ解析の展望", アカデミックインタークラウドシンポジウム 2017 (2017/09/06)
+1. "生命科学DB構築におけるRDF化の実践", 第6回生命医薬情報学連合大会 (IIBMP) 2017 BoF: SemWeb時代におけるバイオデータベースとデータ解析の融合 (2017/09/28)
+1. パネルディスカッション "オープンサイエンスの潮流にどう応えるか？", 学術情報基盤オープンフォーラム 2015 (2015/06/11)
+1. "Semantic Wet Lab Project in BioHackathon - Publishing Research Protocols" 汎用ヒト型ロボット活用研究会ワークショップ「汎用ヒト型ロボット活用に向けたデータサイエンス」 (2015/09/05)
+1. "公共NGSデータベースの希望と現実 – 誰のために公開するのか" NGS現場の会 第三回研究会 (2013/09/04-05)
+1. "データベースから見た 次世代シーケンスによる研究の “これまでとこれから”" 第36回日本分子生物学会年会 ワークショップ "次世代シーケンサによる研究のこれからとそれを支えるインフラ／技術／制度" (2013/12/05)
 
 ## 招待講演
 
-1. 「次世代シーケンサーによるメタゲノム解析：桜の花びらに付着した環境DNAを分析する」JSTグローバルキャンパス事業 講演会 (2018/12/26)
+1. "次世代シーケンサーpによるメタゲノム解析：桜の花びらに付着した環境DNAを分析する", JSTグローバルサイエンスキャンパス 講演会 (2018/12/26)
 1. 「DBCLSでのクラウド・コンテナ活用事例」第一回 HPC OPS 研究会 (2018/3/13)
 1. 「クラウドを活用したゲノム情報解析の現状」情報処理学会 連続セミナー2016「イノベーション最前線:変わりゆく社会と生活へのインパクトの源流を究める」第2回「ビッグデータ活用を支えるクラウド」(2016/7/22)
-1. Tazro Ohta, Osamu Ogasawara "Genomic data analysis workflow as a chain of docker containers on high-performance computing system" ISM High Performance Computing Conference (2015/10/9)
-1. 「次世代シーケンサーを利用した研究事例とそれを支える公共ツール・データベース」 第186回 酵母細胞研究会 例会 (2014/7/11)
-1. 「公共NGSデータベースの希望と現実 – 誰のために公開するのか」 NGS現場の会 第三回研究会 (2013/9/4-5)
+1. "Genomic data analysis workflow as a chain of docker containers on high-performance computing system" ISM High Performance Computing Conference (2015/10/09)
+1. 「次世代シーケンサーを利用した研究事例とそれを支える公共ツール・データベース」 第186回 酵母細胞研究会 例会 (2014/07/11)
 
-## 日本語総説
+## 学会活動・社会活動
 
-1. 大田達郎,仲里猛留 「使える」公共NGSデータをすばやく手に入れるために: SRAsと鎖鋸 2011; 日本バイオインフォマティクス学会ニュースレター, 24, 6-7
-1. 大田達郎 第九回国際ゲノム会議レポート 2011; 日本バイオインフォマティクス学会 ニュースレター, 23, 13-14
-
-## 書籍
-
-1. 川上英良, 大田達郎 「公共ハイスループットChIPデータを用いた遺伝子制御ネットワークの構築とその活用法」 実験医学増刊 Vol.35 No.5 生命科学で使える はじめての数理モデルとシミュレーション 羊土社 (2017/3/9) ISBN-13: 978-4758103619
-1. 大田達郎 「練習用公開データの選び方」 細胞工学別冊 次世代シークエンサーDRY解析教本 学研プラス (2015/10/15) ISBN-13: 978-4780909203
-1. 大田達郎, 仲里猛留 「DBCLS SRA - 公共NGSデータ検索システム」 実験医学増刊 Vol.32 No.20 今日から使える! データベース・ウェブツール 達人になるための実践ガイド100 羊土社 (2014/12/2) ISBN-13: 978-4758103435
+1. NBDC/DBCLS BioHackathon オーガナイザー (2017-)
+1. 研究会・オープンソースコミュニティ "Pitagora Network" 主宰 (2014-)
+1. BioHackathon MENA 2023 (2023/02/07-11) Programme committee
+1. BioHackathon Europe 2022 (2022/11/07-11) Project lead, Programme committee
+1. Bioinformatics Open Source Conference 2022 (2022/07/13-14) Program committee, Session chair
+1. BioHackathon Europe 2021 (2021/11/08-12) Project lead, Programme committee
+1. Bioinformatics Open Source Conference 2021 (2021/07/29-30) Program committee, Session chair
+1. Bioinformatics Community Conference 2020 (2020/07/16-24) Program committee, Session chair
+1. COVID-19 virtual BioHackathon (2020/04/05-11) Organizer
+1. BioHackathon Europe 2019 (2019/11/18-22) Project lead
+1. BioHackathon Europe 2018 (2018/11/12-16) Project lead
+1. NGS現場の会 第4回研究会 (2015/07/01-03) 世話人・企画担当
+1. オープンバイオ研究会「オープン・サイエンス・アワード」企画 (2013-2015)
 
 ## 講習会
 
-1. 「DDBJパイプラインとGalaxyによるデータ解析」 AJACS岩手 (2014/12/5)
-1. 「次世代シーケンサーを活用した研究事例と、 それを支える公共ツール・データベース」 AJACS肥後 (2014/01/23)
-1. 「次世代シーケンスデータベースSequence Read Archiveを利用する」 AJACS富山 (2013/08/30)
-1. 「公共NGSデータの二次利用を支える技術」 DDBJing27 (2013/7/4)
-1. 「次世代シーケンサのデータ解析 戦略立案編」 統合データベース講演会 AJACS本郷8 (2011/3/18)
-1. 「in silicoな実験を広める仕事」統合データベース講習会 AJACS本郷6 (2010/3/19)
-1. 「Transcriptome Sequenceによる遺伝子発現解析の実際」 DDBJing講習会 (2010/6/23-24)
+1. 「次世代シーケンスデータベース」 統合データベース講習会：AJACS 十勝2 (AJACS79), (2019/09/25)
+1. 「次世代シーケンスデータベースの使い方」統合データベース講習会:AJACS京都2 (AJACS62), (2016/09/02)
+1. 「軽量仮想環境を用いてNGSデータの解析再現性を担保する」第31回 DDBJing 講習会 in 東京 (2015/06/12)
+1. 「DDBJパイプラインとGalaxyによるデータ解析」 統合データベース講習会：AJACS岩手 (AJACS51) (2014/12/05)
+1. 「次世代シーケンサーを活用した研究事例と、 それを支える公共ツール・データベース」 統合データベース講習会：AJACS肥後 (AJACS44) (2014/01/23)
+1. 「次世代シーケンスデータベースSequence Read Archiveを利用する」 統合データベース講習会：AJACS富山　(AJACS42) (2013/08/30)
+1. 「公共NGSデータの二次利用を支える技術」 第27回 DDBJing 講習会 in 三島 (2013/07/04)
+1. 「次世代シーケンサのデータ解析 戦略立案編」 統合データベース講演会 AJACS本郷8 (2011/03/18)
+1. 「in silicoな実験を広める仕事」統合データベース講習会 AJACS本郷6 (2010/03/19)
+1. 「Transcriptome Sequenceによる遺伝子発現解析の実際」 第22回 DDBJing 講習会 (2010/06/23)
 
 ## 獲得予算
 
