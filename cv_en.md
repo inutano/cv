@@ -26,6 +26,8 @@ Tazro Ohta, Ph.D.
 
 ## Publications (Peer-reviewed)
 
+1. Suetake H, Fukusato T, Igarashi T, **Ohta T**. Workflow sharing with automated metadata validation and test execution to improve the reusability of published workflows. GigaScience. 2022;12. doi:10.1093/gigascience/giad006
+1. Nishimura O, Rozewicki J, Yamaguchi K, Tatsumi K, Ohishi Y, **Ohta T**, Yagura M, Niwa T, Tanegashima C, Teramura A, Hirase S, Kawaguchi A, Tan M, D’Aniello S, Castro F, Machado A, Koyanagi M, Terakita A, Misawa R, Horie M, Kawasaki J, Asahida T, Yamaguchi A, Murakumo K, Matsumoto R, Irisarri I, Miyamoto N, Toyoda A, Tanaka S, Sakamoto T, Semba Y, Yamauchi S, Yamada K, Nishida K, Kiyatake I, Sato K, Hyodo S, Kadota M, Uno Y, Kuraku S. Squalomix: shark and ray genome analysis consortium and its data sharing platform. F1000Research. 2022;11:1077. doi:10.12688/f1000research.123591.1
 1. Ikeda S, Ono H, **Ohta T**, Chiba H, Naito Y, Moriya Y, Kawashima S, Yamamoto Y, Okamoto S, Goto S, Katayama T. TogoID: an exploratory ID converter to bridge biological datasets. Robinson P, ed. Bioinformatics. Published online July 8, 2022. doi:10.1093/bioinformatics/btac491
 1. Zou Z, **Ohta T**, Miura F, Oki S. ChIP-Atlas 2021 update: a data-mining suite for exploring epigenomic landscapes by fully integrating ChIP-seq, ATAC-seq and Bisulfite-seq data. Nucleic Acids Research. 2022;50(W1):W175-W182. doi:10.1093/nar/gkac199
 1. Amariuta T, Ishigaki K, Sugishita H, **Ohta T**, Koido M, Dey KK, Matsuda K, Murakami Y, Price AL, Kawakami E, Terao C, Raychaudhuri S. Improving the trans-ancestry portability of polygenic risk scores by prioritizing variants in predicted cell-type-specific regulatory elements. Nature Genetics. 2020;52(12):1346–1354. doi:10.1038/s41588-020-00740-8.
@@ -53,9 +55,22 @@ Tazro Ohta, Ph.D.
 
 ## Book
 
-1. 川上英良, 大田達郎 「公共ハイスループットChIPデータを用いた遺伝子制御ネットワークの構築とその活用法」 実験医学増刊 Vol.35 No.5 生命科学で使える はじめての数理モデルとシミュレーション 羊土社 (2017/3/9) ISBN-13: 978-4758103619
-1. 大田達郎 「練習用公開データの選び方」 細胞工学別冊 次世代シークエンサーDRY解析教本 学研プラス (2015/10/15) ISBN-13: 978-4780909203
-1. 大田達郎, 仲里猛留 「DBCLS SRA - 公共NGSデータ検索システム」 実験医学増刊 Vol.32 No.20 今日から使える! データベース・ウェブツール 達人になるための実践ガイド100 羊土社 (2014/12/2) ISBN-13: 978-4758103435
+1. **Ohta T**, Shiwa Y. Hybrid Genome Assembly of Short and Long Reads in Galaxy. Nanopore Sequencing. Published online 2023:15-30. doi:10.1007/978-1-0716-2996-3_2, ISBN: 978-1-0716-2995-6
+1. Oki S, **Ohta T**. "ChIP-Atlas", Editor: Imad Abugessaisa and Takeya Kasukawa, Practical Guide to Life Science Databases (2022/01/06) ISBN: 978-981-16-5812-9
+1. **大田達郎**, 志波優. 「DRY解析環境のセットアップとデータ解析プラットフォーム Galaxy の使い方」 荒川和晴, 宮本真理/編, 実験医学別冊 ロングリードWET&DRY解析ガイド (2021/09/21) ISBN 978-4-7581-2253-5
+1. **大田達郎**. 「3 分で学ぶ GitHub の使い方〜作成したプログラムをオープンソースで公開する〜」 清水厚志, 坊農秀雅/編, 次世代シークエンサーDRY解析教本　改訂第2版 (2019/12/12) ISBN_13：
+978-4-7809-0983-8
+1. **大田達郎**. 「公共データベースに登録された NGS データの分布を可視化する」 清水厚志, 坊農秀雅/編, 次世代シークエンサーDRY解析教本　改訂第2版 (2019/12/12) ISBN_13：
+978-4-7809-0983-8
+1. **大田達郎**, 石井学, 末竹裕貴, 丹生智也, 山田航暉, 安水良明. 「CWL（Common Workflow Language）があれば、DRY解析はもう怖くない」 清水厚志, 坊農秀雅/編, 次世代シークエンサーDRY解析教本　改訂第2版 (2019/12/12) ISBN_13：
+978-4-7809-0983-8
+1. **大田達郎**. 「wtdbg2 を Docker Desktop for Mac で動かす」 清水厚志, 坊農秀雅/編, 次世代シークエンサーDRY解析教本　改訂第2版 (2019/12/12) ISBN_13：
+978-4-7809-0983-8
+1. 沖真弥，**大田達郎**. 「ChIP-Atlas：既報のChIP-seqデータをフル活用するためのウェブサービス」 実験医学 2019年10月号 Vol.37 No.16 (2019/09/20) ISBN 978-4-7581-2524-6
+1. 沖真弥, **大田達郎**. MEDICAL TOPICS 第71回 「ChIP-Atlas:公共ChIP-seqデータを統合的に活用するためのウェブサービス」 THE LUNG perspectives Vol.27 No.3 243-249,194 (2019/08/30) ISBN	978-4-7792-2305-1
+1. 川上英良, **大田達郎** 「公共ハイスループットChIPデータを用いた遺伝子制御ネットワークの構築とその活用法」 実験医学増刊 Vol.35 No.5 生命科学で使える はじめての数理モデルとシミュレーション 羊土社 (2017/3/9) ISBN-13: 978-4758103619
+1. **大田達郎** 「練習用公開データの選び方」 細胞工学別冊 次世代シークエンサーDRY解析教本 学研プラス (2015/10/15) ISBN-13: 978-4780909203
+1. **大田達郎**, 仲里猛留 「DBCLS SRA - 公共NGSデータ検索システム」 実験医学増刊 Vol.32 No.20 今日から使える! データベース・ウェブツール 達人になるための実践ガイド100 羊土社 (2014/12/2) ISBN-13: 978-4758103435
 
 ## Funding
 

@@ -8,6 +8,7 @@
 
 ## 学歴
 
+- 2001/04/01-2005/03/01 福岡県立筑紫丘高等学校 普通科
 - 2005/04/01-2009/03/25 神戸大学農学部 生物環境制御学科 (学士・農学)
 - 2009/04/01-2011/03/24 東京大学大学院 農学生命科学研究科 生産・環境生物学専攻 (修士・農学)
 
@@ -27,6 +28,8 @@
 
 ## 査読付き論文
 
+1. Suetake H, Fukusato T, Igarashi T, **Ohta T**. Workflow sharing with automated metadata validation and test execution to improve the reusability of published workflows. GigaScience. 2022;12. doi:10.1093/gigascience/giad006
+1. Nishimura O, Rozewicki J, Yamaguchi K, Tatsumi K, Ohishi Y, **Ohta T**, Yagura M, Niwa T, Tanegashima C, Teramura A, Hirase S, Kawaguchi A, Tan M, D’Aniello S, Castro F, Machado A, Koyanagi M, Terakita A, Misawa R, Horie M, Kawasaki J, Asahida T, Yamaguchi A, Murakumo K, Matsumoto R, Irisarri I, Miyamoto N, Toyoda A, Tanaka S, Sakamoto T, Semba Y, Yamauchi S, Yamada K, Nishida K, Kiyatake I, Sato K, Hyodo S, Kadota M, Uno Y, Kuraku S. Squalomix: shark and ray genome analysis consortium and its data sharing platform. F1000Research. 2022;11:1077. doi:10.12688/f1000research.123591.1
 1. Ikeda S, Ono H, **Ohta T**, Chiba H, Naito Y, Moriya Y, Kawashima S, Yamamoto Y, Okamoto S, Goto S, Katayama T. TogoID: an exploratory ID converter to bridge biological datasets. Robinson P, ed. Bioinformatics. Published online July 8, 2022. doi:10.1093/bioinformatics/btac491
 1. Zou Z, **Ohta T**, Miura F, Oki S. ChIP-Atlas 2021 update: a data-mining suite for exploring epigenomic landscapes by fully integrating ChIP-seq, ATAC-seq and Bisulfite-seq data. Nucleic Acids Research. 2022;50(W1):W175-W182. doi:10.1093/nar/gkac199
 1. Amariuta T, Ishigaki K, Sugishita H, **Ohta T**, Koido M, Dey KK, Matsuda K, Murakami Y, Price AL, Kawakami E, Terao C, Raychaudhuri S. Improving the trans-ancestry portability of polygenic risk scores by prioritizing variants in predicted cell-type-specific regulatory elements. Nature Genetics. 2020;52(12):1346–1354. doi:10.1038/s41588-020-00740-8.
@@ -52,8 +55,7 @@
 
 ## 著書
 
-1. **Ohta T**, Shiwa Y. "Hybrid genome assembly of short and long reads in Galaxy", Editor: Kazuharu Arakawa, Nanopore Sequencing, Methods in Molecular Biology volume 2632 (In printing) ISBN: 978-1-0716-2995-6
-1. **大田達郎**. 「Digital Expression Explorer 2」 小野浩雅/編, 実験医学増刊 Vol.40 No.17 バイオDBとウェブツール　ラボで使える最新70選 (2022/10/20) ISBN 978-4-7581-0406-7
+1. **Ohta T**, Shiwa Y. Hybrid Genome Assembly of Short and Long Reads in Galaxy. Nanopore Sequencing. Published online 2023:15-30. doi:10.1007/978-1-0716-2996-3_2, ISBN: 978-1-0716-2995-6
 1. Oki S, **Ohta T**. "ChIP-Atlas", Editor: Imad Abugessaisa and Takeya Kasukawa, Practical Guide to Life Science Databases (2022/01/06) ISBN: 978-981-16-5812-9
 1. **大田達郎**, 志波優. 「DRY解析環境のセットアップとデータ解析プラットフォーム Galaxy の使い方」 荒川和晴, 宮本真理/編, 実験医学別冊 ロングリードWET&DRY解析ガイド (2021/09/21) ISBN 978-4-7581-2253-5
 1. **大田達郎**. 「3 分で学ぶ GitHub の使い方〜作成したプログラムをオープンソースで公開する〜」 清水厚志, 坊農秀雅/編, 次世代シークエンサーDRY解析教本　改訂第2版 (2019/12/12) ISBN_13：
@@ -94,7 +96,7 @@
 
 ## 招待講演
 
-1. "次世代シーケンサーpによるメタゲノム解析：桜の花びらに付着した環境DNAを分析する", JSTグローバルサイエンスキャンパス 講演会 (2018/12/26)
+1. "次世代シーケンサーによるメタゲノム解析：桜の花びらに付着した環境DNAを分析する", JSTグローバルサイエンスキャンパス 講演会 (2018/12/26)
 1. 「DBCLSでのクラウド・コンテナ活用事例」第一回 HPC OPS 研究会 (2018/3/13)
 1. 「クラウドを活用したゲノム情報解析の現状」情報処理学会 連続セミナー2016「イノベーション最前線:変わりゆく社会と生活へのインパクトの源流を究める」第2回「ビッグデータ活用を支えるクラウド」(2016/7/22)
 1. "Genomic data analysis workflow as a chain of docker containers on high-performance computing system" ISM High Performance Computing Conference (2015/10/09)
@@ -105,14 +107,12 @@
 1. NBDC/DBCLS BioHackathon オーガナイザー (2017-)
 1. 研究会・オープンソースコミュニティ "Pitagora Network" 主宰 (2014-)
 1. BioHackathon MENA 2023 (2023/02/07-11) Programme committee
-1. BioHackathon Europe 2022 (2022/11/07-11) Project lead, Programme committee
-1. Bioinformatics Open Source Conference 2022 (2022/07/13-14) Program committee, Session chair
+1. BioHackathon Europe 2022 (2022/11/07-11) Programme committee
+1. Bioinformatics Open Source Conference 2022 (2022/07/13-14) Program committee
 1. BioHackathon Europe 2021 (2021/11/08-12) Project lead, Programme committee
-1. Bioinformatics Open Source Conference 2021 (2021/07/29-30) Program committee, Session chair
-1. Bioinformatics Community Conference 2020 (2020/07/16-24) Program committee, Session chair
+1. Bioinformatics Open Source Conference 2021 (2021/07/29-30) Program committee
+1. Bioinformatics Community Conference 2020 (2020/07/16-24) Program committee
 1. COVID-19 virtual BioHackathon (2020/04/05-11) Organizer
-1. BioHackathon Europe 2019 (2019/11/18-22) Project lead
-1. BioHackathon Europe 2018 (2018/11/12-16) Project lead
 1. NGS現場の会 第4回研究会 (2015/07/01-03) 世話人・企画担当
 1. オープンバイオ研究会「オープン・サイエンス・アワード」企画 (2013-2015)
 
