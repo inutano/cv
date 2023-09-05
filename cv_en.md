@@ -4,7 +4,7 @@ Tazro Ohta, Ph.D.
 
 - ORCID: https://orcid.org/0000-0003-3777-5945
 - GitHub: http://github.com/inutano
-- Twitter: https://twitter.com/inutano
+- Bluesky: @inut.bsky.social
 
 ## Education
 
@@ -17,16 +17,23 @@ Tazro Ohta, Ph.D.
 
 ## Work
 
+- Institute for Advanced Academic Research / Department of Artificial Intelligence Medicine, Graduate School of Medicine, Chiba University
+  - 2023/04/01- Associate Professor
 - Database Center for Life Science, Joint Support-Center for Data Science Research, Research Organization of Information and Systems
   - 2009/07/01-2011/03/31 Research Assistant
   - 2011/04/01-2015/03/41 Project Technical Specialist
   - 2015/04/01-2019/07/31 Project Researcher
-  - 2019/08/01-           Project Assistant Professor
-
+  - 2019/08/01-2023/03/31 Project Assistant Professor
+  - 2023/04/01-           Visiting Associate Professor
+- RIKEN
+  - 2019/05/02- Visiting Researcher
+- Bioinformatics and DDBJ Center, National Institute of Genetics
+  - 2023/05/01- Specially Appointed Associate Professor
 
 ## Publications (Peer-reviewed)
 
-1. Suetake H, Fukusato T, Igarashi T, **Ohta T**. Workflow sharing with automated metadata validation and test execution to improve the reusability of published workflows. GigaScience. 2022;12. doi:10.1093/gigascience/giad006
+1. Suetake H, Fukusato T, Igarashi T, **Ohta T**. A workflow reproducibility scale for automatic validation of biological interpretation results. GigaScience. 2023;12. doi:10.1093/gigascience/giad031
+1. Suetake H, Fukusato T, Igarashi T, **Ohta T**. Workflow sharing with automated metadata validation and test execution to improve the reusability of published workflows. GigaScience. 2023;12. doi:10.1093/gigascience/giad006
 1. Nishimura O, Rozewicki J, Yamaguchi K, Tatsumi K, Ohishi Y, **Ohta T**, Yagura M, Niwa T, Tanegashima C, Teramura A, Hirase S, Kawaguchi A, Tan M, D’Aniello S, Castro F, Machado A, Koyanagi M, Terakita A, Misawa R, Horie M, Kawasaki J, Asahida T, Yamaguchi A, Murakumo K, Matsumoto R, Irisarri I, Miyamoto N, Toyoda A, Tanaka S, Sakamoto T, Semba Y, Yamauchi S, Yamada K, Nishida K, Kiyatake I, Sato K, Hyodo S, Kadota M, Uno Y, Kuraku S. Squalomix: shark and ray genome analysis consortium and its data sharing platform. F1000Research. 2022;11:1077. doi:10.12688/f1000research.123591.1
 1. Ikeda S, Ono H, **Ohta T**, Chiba H, Naito Y, Moriya Y, Kawashima S, Yamamoto Y, Okamoto S, Goto S, Katayama T. TogoID: an exploratory ID converter to bridge biological datasets. Robinson P, ed. Bioinformatics. Published online July 8, 2022. doi:10.1093/bioinformatics/btac491
 1. Zou Z, **Ohta T**, Miura F, Oki S. ChIP-Atlas 2021 update: a data-mining suite for exploring epigenomic landscapes by fully integrating ChIP-seq, ATAC-seq and Bisulfite-seq data. Nucleic Acids Research. 2022;50(W1):W175-W182. doi:10.1093/nar/gkac199

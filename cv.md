@@ -4,7 +4,7 @@
 
 - ORCID: https://orcid.org/0000-0003-3777-5945
 - GitHub: http://github.com/inutano
-- Twitter: https://twitter.com/inutano
+- Bluesky: @inut.bsky.social
 
 ## 学歴
 
@@ -18,17 +18,23 @@
 
 ## 職歴
 
+- 千葉大学 国際高等研究基幹 / 大学院医学研究院 人工知能医学
+  - 2023/04/01- 准教授
 - 情報・システム研究機構 データサイエンス共同利用基盤施設 ライフサイエンス統合データベースセンター
   - 2009/07/01-2011/03/31 リサーチアシスタント
   - 2011/04/01-2015/03/31 特任技術専門員
   - 2015/04/01-2019/07/31 特任研究員
-  - 2019/08/01-           特任助教
+  - 2019/08/01-2023/03/31 特任助教
+  - 2023/04/01-           客員准教授
 - 理化学研究所
   - 2019/05/02- 客員研究員
+- 国立遺伝学研究所 生命情報・DDBJセンター
+  - 2023/05/01- 特命准教授
 
 ## 査読付き論文
 
-1. Suetake H, Fukusato T, Igarashi T, **Ohta T**. Workflow sharing with automated metadata validation and test execution to improve the reusability of published workflows. GigaScience. 2022;12. doi:10.1093/gigascience/giad006
+1. Suetake H, Fukusato T, Igarashi T, **Ohta T**. A workflow reproducibility scale for automatic validation of biological interpretation results. GigaScience. 2023;12. doi:10.1093/gigascience/giad031
+1. Suetake H, Fukusato T, Igarashi T, **Ohta T**. Workflow sharing with automated metadata validation and test execution to improve the reusability of published workflows. GigaScience. 2023;12. doi:10.1093/gigascience/giad006
 1. Nishimura O, Rozewicki J, Yamaguchi K, Tatsumi K, Ohishi Y, **Ohta T**, Yagura M, Niwa T, Tanegashima C, Teramura A, Hirase S, Kawaguchi A, Tan M, D’Aniello S, Castro F, Machado A, Koyanagi M, Terakita A, Misawa R, Horie M, Kawasaki J, Asahida T, Yamaguchi A, Murakumo K, Matsumoto R, Irisarri I, Miyamoto N, Toyoda A, Tanaka S, Sakamoto T, Semba Y, Yamauchi S, Yamada K, Nishida K, Kiyatake I, Sato K, Hyodo S, Kadota M, Uno Y, Kuraku S. Squalomix: shark and ray genome analysis consortium and its data sharing platform. F1000Research. 2022;11:1077. doi:10.12688/f1000research.123591.1
 1. Ikeda S, Ono H, **Ohta T**, Chiba H, Naito Y, Moriya Y, Kawashima S, Yamamoto Y, Okamoto S, Goto S, Katayama T. TogoID: an exploratory ID converter to bridge biological datasets. Robinson P, ed. Bioinformatics. Published online July 8, 2022. doi:10.1093/bioinformatics/btac491
 1. Zou Z, **Ohta T**, Miura F, Oki S. ChIP-Atlas 2021 update: a data-mining suite for exploring epigenomic landscapes by fully integrating ChIP-seq, ATAC-seq and Bisulfite-seq data. Nucleic Acids Research. 2022;50(W1):W175-W182. doi:10.1093/nar/gkac199
@@ -74,6 +80,8 @@
 
 ## 学会/研究会 口頭発表
 
+1. "Tonkaz: A workflow reproducibility scale for automatic validation of biological interpretation results", Bioinformatics Open Source Conference COSI, The 31st Annual  Intelligent Systems For Molecular Biology and the 22nd Annual European Conference on Computational Biology (ISMB/ECCB 2023) (2023/07/25)
+1. "Sapporo: A GA4GH WES implementation for multiple workflow languages", Federated Compute, GA4GH CONNECT 2023 (2023/04/19)
 1. "Yevis: System to support building a workflow registry with automated quality control", Bioinformatics Open Source Conference COSI, 30th Conference on Intelligent Systems for Molecular Biology (ISMB2022) (2022/07/14)
 1. "Demonstration: Common Workflow Language", 2022年度 日本バイオインフォマティクス学会年会 第11回 生命医薬情報学連合大会 (2022/09/13)
 1. "Sapporo: an implementation of the GA4GH Workflow Execution Service standard", Workshop: Federating computational analyses with GA4GH standards, Basel Computational Biology Conference (2021/09/13)
