@@ -1,11 +1,12 @@
 name: Docs to PDF
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
     paths:
-      - 'docs/**.md'
-      - 'docs/images/**'
+      - "docs/**.md"
+      - "docs/images/**"
 
 jobs:
   converttopdf:
@@ -21,6 +22,9 @@ jobs:
           # for example <img src="./images/file-name.png">
           image_import: ./images
           build_html: false
+          theme: styles/extend.css
+          extend_default_theme: true
+
       - uses: actions/upload-artifact@v3
         with:
           name: docs
