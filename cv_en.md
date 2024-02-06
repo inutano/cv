@@ -32,6 +32,7 @@ Tazro Ohta, Ph.D.
 
 ## Publications (Peer-reviewed)
 
+1. **Ohta T**, Hananoe A, Fukushima-Nomura A, Ashizaki K, Sekita A, Seita J, Kawakami E, Sakurada K, Amagai M, Koseki H, Kawasaki H. Best practices for multimodal clinical data management and integration: An atopic dermatitis research case. Allergology International. Published online December 2023. doi:10.1016/j.alit.2023.11.006
 1. Suetake H, Fukusato T, Igarashi T, **Ohta T**. A workflow reproducibility scale for automatic validation of biological interpretation results. GigaScience. 2023;12. doi:10.1093/gigascience/giad031
 1. Suetake H, Fukusato T, Igarashi T, **Ohta T**. Workflow sharing with automated metadata validation and test execution to improve the reusability of published workflows. GigaScience. 2023;12. doi:10.1093/gigascience/giad006
 1. Nishimura O, Rozewicki J, Yamaguchi K, Tatsumi K, Ohishi Y, **Ohta T**, Yagura M, Niwa T, Tanegashima C, Teramura A, Hirase S, Kawaguchi A, Tan M, D’Aniello S, Castro F, Machado A, Koyanagi M, Terakita A, Misawa R, Horie M, Kawasaki J, Asahida T, Yamaguchi A, Murakumo K, Matsumoto R, Irisarri I, Miyamoto N, Toyoda A, Tanaka S, Sakamoto T, Semba Y, Yamauchi S, Yamada K, Nishida K, Kiyatake I, Sato K, Hyodo S, Kadota M, Uno Y, Kuraku S. Squalomix: shark and ray genome analysis consortium and its data sharing platform. F1000Research. 2022;11:1077. doi:10.12688/f1000research.123591.1
