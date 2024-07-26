@@ -17,6 +17,8 @@ Tazro Ohta, Ph.D.
 
 ## Work
 
+- Data Science Core, Chiba University
+  - 2024/07/01- Associate Director
 - Institute for Advanced Academic Research / Department of Artificial Intelligence Medicine, Graduate School of Medicine, Chiba University
   - 2023/04/01- Associate Professor
 - Database Center for Life Science, Joint Support-Center for Data Science Research, Research Organization of Information and Systems
@@ -32,6 +34,9 @@ Tazro Ohta, Ph.D.
 
 ## Publications (Peer-reviewed)
 
+1. Suetake H, Tanjo T, Ishii M, P. Kinoshita B, Fujino T, Hachiya T, Kodama Y, Fujisawa T, Ogasawara O, Shimizu A, Arita M, Fukusato T, Igarashi T, **Ohta T**. Sapporo: A workflow execution service that encourages the reuse of workflows in various languages in bioinformatics. F1000Research. 2024;11:889. doi:10.12688/f1000research.122924.2
+1. Masamura Y, Kubo R, Midorikawa Y, Shinozaki No, Watanabe S, Maekawa S, Takeda AK, **Ohta T**. Differences in the human gut microbiota with varying depressive symptom severity scores. Bioscience of Microbiota, Food and Health. Published online 2024. doi:10.12938/bmfh.2023-049
+1. Zou Z, **Ohta T**, Oki S. ChIP-Atlas 3.0: a data-mining suite to explore chromosome architecture together with large-scale regulome data. Nucleic Acids Research. 2024;52(W1):W45-W53. doi:10.1093/nar/gkae358
 1. **Ohta T**, Hananoe A, Fukushima-Nomura A, Ashizaki K, Sekita A, Seita J, Kawakami E, Sakurada K, Amagai M, Koseki H, Kawasaki H. Best practices for multimodal clinical data management and integration: An atopic dermatitis research case. Allergology International. Published online December 2023. doi:10.1016/j.alit.2023.11.006
 1. Suetake H, Fukusato T, Igarashi T, **Ohta T**. A workflow reproducibility scale for automatic validation of biological interpretation results. GigaScience. 2023;12. doi:10.1093/gigascience/giad031
 1. Suetake H, Fukusato T, Igarashi T, **Ohta T**. Workflow sharing with automated metadata validation and test execution to improve the reusability of published workflows. GigaScience. 2023;12. doi:10.1093/gigascience/giad006

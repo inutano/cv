@@ -18,6 +18,8 @@
 
 ## 職歴
 
+- 千葉大学 データサイエンスコア
+  - 2024/07/01- 副ダイレクター
 - 千葉大学 国際高等研究基幹 / 大学院医学研究院 人工知能医学
   - 2023/04/01- 准教授
 - 情報・システム研究機構 データサイエンス共同利用基盤施設 ライフサイエンス統合データベースセンター
@@ -33,6 +35,9 @@
 
 ## 査読付き論文
 
+1. Suetake H, Tanjo T, Ishii M, P. Kinoshita B, Fujino T, Hachiya T, Kodama Y, Fujisawa T, Ogasawara O, Shimizu A, Arita M, Fukusato T, Igarashi T, **Ohta T**. Sapporo: A workflow execution service that encourages the reuse of workflows in various languages in bioinformatics. F1000Research. 2024;11:889. doi:10.12688/f1000research.122924.2
+1. Masamura Y, Kubo R, Midorikawa Y, Shinozaki No, Watanabe S, Maekawa S, Takeda AK, **Ohta T**. Differences in the human gut microbiota with varying depressive symptom severity scores. Bioscience of Microbiota, Food and Health. Published online 2024. doi:10.12938/bmfh.2023-049
+1. Zou Z, **Ohta T**, Oki S. ChIP-Atlas 3.0: a data-mining suite to explore chromosome architecture together with large-scale regulome data. Nucleic Acids Research. 2024;52(W1):W45-W53. doi:10.1093/nar/gkae358
 1. **Ohta T**, Hananoe A, Fukushima-Nomura A, Ashizaki K, Sekita A, Seita J, Kawakami E, Sakurada K, Amagai M, Koseki H, Kawasaki H. Best practices for multimodal clinical data management and integration: An atopic dermatitis research case. Allergology International. Published online December 2023. doi:10.1016/j.alit.2023.11.006
 1. Suetake H, Fukusato T, Igarashi T, **Ohta T**. A workflow reproducibility scale for automatic validation of biological interpretation results. GigaScience. 2023;12. doi:10.1093/gigascience/giad031
 1. Suetake H, Fukusato T, Igarashi T, **Ohta T**. Workflow sharing with automated metadata validation and test execution to improve the reusability of published workflows. GigaScience. 2023;12. doi:10.1093/gigascience/giad006
@@ -81,6 +86,7 @@
 
 ## 学会/研究会 口頭発表
 
+1. "Advancing Workflow Automation - Insights from Workflow Execution Service and the Common Workflow Language", Common Workflow Language Conference 2024 (CWLcon2024) (2024/05/15)
 1. "Tonkaz: A workflow reproducibility scale for automatic validation of biological interpretation results", Bioinformatics Open Source Conference COSI, The 31st Annual  Intelligent Systems For Molecular Biology and the 22nd Annual European Conference on Computational Biology (ISMB/ECCB 2023) (2023/07/25)
 1. "Sapporo: A GA4GH WES implementation for multiple workflow languages", Federated Compute, GA4GH CONNECT 2023 (2023/04/19)
 1. "Yevis: System to support building a workflow registry with automated quality control", Bioinformatics Open Source Conference COSI, 30th Conference on Intelligent Systems for Molecular Biology (ISMB2022) (2022/07/14)
