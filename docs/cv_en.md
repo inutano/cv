@@ -1,5 +1,7 @@
 # CV
 
+![Tazro Ohta](images/Ohta_profile.jpg)
+
 Tazro Ohta, Ph.D.
 
 - ORCID: https://orcid.org/0000-0003-3777-5945
