@@ -1,6 +1,6 @@
 # CV
 
-![Tazro Ohta](images/Ohta_profile.jpg)
+![Tazro Ohta](images/Ohta_profile.small.jpg)
 
 Tazro Ohta, Ph.D.
 

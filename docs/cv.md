@@ -1,6 +1,6 @@
 # CV
 
-![Tazro Ohta](images/Ohta_profile.jpg)
+![Tazro Ohta](images/Ohta_profile.small.jpg)
 
 大田達郎 博士 (理学)
 
