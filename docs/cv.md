@@ -37,6 +37,7 @@
 
 ## 査読付き論文
 
+1. Ikeda S, Zou Z, Bono H, Moriya Y, Kawashima S, Katayama T, Oki S, **Ohta T**. Extraction of biological terms using large language models enhances the usability of metadata in the BioSample database. GigaScience. 2025;14. doi:10.1093/gigascience/giaf070
 1. Zou Z, **Ohta T**, Oki S. ChIP-Atlas 3.0: a data-mining suite to explore chromosome architecture together with large-scale regulome data. Nucleic Acids Research. 2024;52(W1):W45-W53. doi:10.1093/nar/gkae358
 1. Suetake H, Tanjo T, Ishii M, P. Kinoshita B, Fujino T, Hachiya T, Kodama Y, Fujisawa T, Ogasawara O, Shimizu A, Arita M, Fukusato T, Igarashi T, **Ohta T**. Sapporo: A workflow execution service that encourages the reuse of workflows in various languages in bioinformatics. F1000Research. 2024;11:889. doi:10.12688/f1000research.122924.2
 1. Masamura Y, Kubo R, Midorikawa Y, Shinozaki No, Watanabe S, Maekawa S, Takeda AK, **Ohta T**. Differences in the human gut microbiota with varying depressive symptom severity scores. Bioscience of Microbiota, Food and Health. Published online 2024. doi:10.12938/bmfh.2023-049
@@ -114,19 +115,22 @@
 
 ## 招待講演
 
+1. "Evening talk show: Future landscape of genomic data sharing", Global Alliance for Genomics and Health (GA4GH) 13th Plenary (2025/10/06)
 1. "次世代シーケンサーによるメタゲノム解析：桜の花びらに付着した環境DNAを分析する", JSTグローバルサイエンスキャンパス 講演会 (2018/12/26)
-1. 「DBCLSでのクラウド・コンテナ活用事例」第一回 HPC OPS 研究会 (2018/3/13)
-1. 「クラウドを活用したゲノム情報解析の現状」情報処理学会 連続セミナー2016「イノベーション最前線:変わりゆく社会と生活へのインパクトの源流を究める」第2回「ビッグデータ活用を支えるクラウド」(2016/7/22)
+1. 「DBCLSでのクラウド・コンテナ活用事例」第一回 HPC OPS 研究会 (2018/03/13)
+1. 「クラウドを活用したゲノム情報解析の現状」情報処理学会 連続セミナー2016「イノベーション最前線:変わりゆく社会と生活へのインパクトの源流を究める」第2回「ビッグデータ活用を支えるクラウド」(2016/07/22)
 1. "Genomic data analysis workflow as a chain of docker containers on high-performance computing system" ISM High Performance Computing Conference (2015/10/09)
 1. 「次世代シーケンサーを利用した研究事例とそれを支える公共ツール・データベース」 第186回 酵母細胞研究会 例会 (2014/07/11)
 
 ## 学会活動・社会活動
 
+1. Bioinformatics Open Source Conference (BOSC) Organizer (2025-)
+1. Global Alliance for Genomics and Health Cloud Work Stream Workflow Execution Service API Standard Co-lead (2024-)
 1. BioHackathon Europe Programme committee (2021-)
 1. BioHackathon MENA 2023 (2023/02/07-11) Programme committee
 1. COVID-19 virtual BioHackathon (2020/04/05-11) Organizer
 1. Bioinformatics Community Conference Program committee (2020-)
-1. NBDC/DBCLS BioHackathon オーガナイザー (2017-)
+1. DBCLS BioHackathon オーガナイザー (2017-)
 1. 研究会・オープンソースコミュニティ "Pitagora Network" 主宰 (2014-)
 1. NGS現場の会 第4回研究会 (2015/07/01-03) 世話人・企画担当
 1. オープンバイオ研究会「オープン・サイエンス・アワード」主催 (2013-2015)
@@ -146,7 +150,8 @@
 
 ## 獲得予算
 
-1. 大田達郎「大規模言語モデルを用いた生物試料情報の標準化」令和6年度科学研究費助成事業（若手研究）24K20889 (2024-2026)
-1. 大田達郎「臨床研究におけるデータ保護と共有の両立:Code-to-Data の安全性検証」 公益財団法人 セコム科学技術振興財団 令和5年度 挑戦的研究助成 (2024-2027)
-1. 大田達郎「大規模言語モデルとセマンティック・ウェブ技術を活用した生物試料データ基盤の開発」情報・システム研究機構 ROIS-DS-JOINT (2023-)
-1. 大田達郎「軽量仮想化環境上の大規模塩基配列データ解析フレームワーク開発およびスパコン間連携の実証実験」情報・システム研究機構 平成26年度 融合シーズ探索提案 (2014)
+1. 大田達郎 (研究分担者) 「BioSkillDX:ライフサイエンス実験作業の暗黙知獲得と作業支援」経済安全保障重要技術育成プログラム（K Program）「ノウハウの効果的な伝承につながる人作業伝達等の研究デジタル基盤技術」 (2025-)
+1. 大田達郎 (研究代表者) 「大規模言語モデルを用いた生物試料情報の標準化」令和6年度科学研究費助成事業（若手研究）24K20889 (2024-2026)
+1. 大田達郎 (研究代表者) 「臨床研究におけるデータ保護と共有の両立:Code-to-Data の安全性検証」 公益財団法人 セコム科学技術振興財団 令和5年度 挑戦的研究助成 (2024-2027)
+1. 大田達郎 (研究代表者) 「大規模言語モデルとセマンティック・ウェブ技術を活用した生物試料データ基盤の開発」情報・システム研究機構 ROIS-DS-JOINT (2023-2025)
+1. 大田達郎 (研究代表者) 「軽量仮想化環境上の大規模塩基配列データ解析フレームワーク開発およびスパコン間連携の実証実験」情報・システム研究機構 平成26年度 融合シーズ探索提案 (2014-2015)
