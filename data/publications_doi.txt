@@ -1,3 +1,6 @@
+10.1093/nar/gkag897
+10.1093/nar/gkag378
+10.1093/gigascience/giag052
 10.1093/gigascience/giaf070
 10.1093/nar/gkae358
 10.12688/f1000research.122924.2

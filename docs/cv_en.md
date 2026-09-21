@@ -36,11 +36,13 @@ Tazro Ohta, Ph.D.
 
 ## Publications (Peer-reviewed)
 
+1. Sugimoto H, Tsuyuzaki K, Zou Z, Oki S, **Ohta T**, Kawakami E. A transcription factor regulatory atlas for activity inference and perturbation prediction. Nucleic Acids Research. 2026;54(17). doi:10.1093/nar/gkag897
+1. Zou Z, **Ohta T**, Kasukawa T, Oki S. ChIP-Atlas 2025 update: 10-year anniversary of a data-mining platform for exploring epigenomic landscape. Nucleic Acids Research. 2026;54(W1):W77-W84. doi:10.1093/nar/gkag378
+1. Poncheewin W, Suvannang N, **Ohta T**, Seow SW, Kitano Y, Afiahayati, Kawai Y, Katayama T, Kamada M, Sawaengdee W, Piboonsiri P, Edmunds SC, Jeon S, Takahashi S, Kasamatsu A, Phannasorn W, Kampoun T, Ruangchai W, Bodharamik T, Chienwichai P, Thepbundit V, Hachiya T, Phasitthanaphak N, Kunhapan P, Wongboonchai P, Payungporn S, Ogishima S, Sangphukieo A, Jaimalai T, Noisagul P, Eu-ahsunthornwattana J, Nittayaboon K, Phornsiricharoenphant W, Janpoung W, Nakhonsri V, Boonbangyang M, Mahasirimongkol S, Yamamoto N, Chanprem P, Uchino E, Teerakulkittipong N, Joompang A, Kumla D, Boonsriwong W, Pipatpanyanugoon N, Xu S, Kawashima M, Bhak J, Bertin N, Toyo-oka L, Mustak MS. Unlocking the potential of Asian genomic data: a collaborative framework for precision medicine innovation. GigaScience. 2026;15. doi:10.1093/gigascience/giag052
 1. Ikeda S, Zou Z, Bono H, Moriya Y, Kawashima S, Katayama T, Oki S, **Ohta T**. Extraction of biological terms using large language models enhances the usability of metadata in the BioSample database. GigaScience. 2025;14. doi:10.1093/gigascience/giaf070
 1. Zou Z, **Ohta T**, Oki S. ChIP-Atlas 3.0: a data-mining suite to explore chromosome architecture together with large-scale regulome data. Nucleic Acids Research. 2024;52(W1):W45-W53. doi:10.1093/nar/gkae358
 1. Suetake H, Tanjo T, Ishii M, P. Kinoshita B, Fujino T, Hachiya T, Kodama Y, Fujisawa T, Ogasawara O, Shimizu A, Arita M, Fukusato T, Igarashi T, **Ohta T**. Sapporo: A workflow execution service that encourages the reuse of workflows in various languages in bioinformatics. F1000Research. 2024;11:889. doi:10.12688/f1000research.122924.2
 1. Masamura Y, Kubo R, Midorikawa Y, Shinozaki No, Watanabe S, Maekawa S, Takeda AK, **Ohta T**. Differences in the human gut microbiota with varying depressive symptom severity scores. Bioscience of Microbiota, Food and Health. Published online 2024. doi:10.12938/bmfh.2023-049
-1. Zou Z, **Ohta T**, Oki S. ChIP-Atlas 3.0: a data-mining suite to explore chromosome architecture together with large-scale regulome data. Nucleic Acids Research. 2024;52(W1):W45-W53. doi:10.1093/nar/gkae358
 1. **Ohta T**, Hananoe A, Fukushima-Nomura A, Ashizaki K, Sekita A, Seita J, Kawakami E, Sakurada K, Amagai M, Koseki H, Kawasaki H. Best practices for multimodal clinical data management and integration: An atopic dermatitis research case. Allergology International. Published online December 2023. doi:10.1016/j.alit.2023.11.006
 1. Suetake H, Fukusato T, Igarashi T, **Ohta T**. A workflow reproducibility scale for automatic validation of biological interpretation results. GigaScience. 2023;12. doi:10.1093/gigascience/giad031
 1. Suetake H, Fukusato T, Igarashi T, **Ohta T**. Workflow sharing with automated metadata validation and test execution to improve the reusability of published workflows. GigaScience. 2023;12. doi:10.1093/gigascience/giad006
@@ -60,6 +62,24 @@ Tazro Ohta, Ph.D.
 1. Kawakami E, Nakaoka S, **Ohta T**, Kitano H. Weighted enrichment method for prediction of transcription regulators from transcriptome and global chromatin immunoprecipitation data. Nucleic Acids Research. 2016;44(11):5010–5021. doi:10.1093/nar/gkw355.
 1. Nakazato T, **Ohta T**, Bono H. Experimental Design-Based Functional Mining and Characterization of High-Throughput Sequencing Data in the Sequence Read Archive. Aziz RK, ed. PLoS ONE. 2013;8(10):e77910. doi:10.1371/journal.pone.0077910.
 
+## Preprints
+
+1. **Ohta T**, Harris NL, Carbon S. AI-assisted pre-review of open-source software submissions: an experience report from BOSC 2026. *arXiv*. Preprint posted online 2026. doi:10.48550/ARXIV.2607.27228
+1. Sugimoto H, Tsuyuzaki K, Zou Z, Oki S, **Ohta T**, Kawakami E. Uncertainty-aware transcription factor activity and perturbation inference without additional training. *bioRxiv*. Published online October 6, 2025. doi:10.1101/2025.10.05.680506
+1. Harris NL, Hokamp K, Maia J, Ménager H, Munoz-Torres MC, **Ohta T**, Unni D, Williams J. BOSC 2025, the 26th Bioinformatics Open Source Conference. F1000Research. 2025;14:887. doi:10.12688/f1000research.169977.1
+1. Isaac A, Wang Y, **Ohta T**, Castro LJ, Katayama T, Prins P. Persistence, metadata collection and re-architecture of BioHackrXiv. *BioHackrXiv*. Published online April 2, 2025. doi:10.37044/osf.io/c8jw6_v1
+1. Willighagen E, **Ohta T**. BioHackEU24 report: ORCID and ROR identifiers in BioHackrXiv reports. *BioHackrXiv*. Published online March 11, 2025. doi:10.37044/osf.io/p9u42_v1
+1. Ikeda S, Zou Z, Bono H, Moriya Y, Kawashima S, Katayama T, Oki S, **Ohta T**. Extraction of biological terms using large language models enhances the usability of metadata in the BioSample database. *bioRxiv*. Published online February 22, 2025. doi:10.1101/2025.02.17.638570
+1. Perk M, Isaac A, **Ohta T**, Willighagen E, Castro LJ, Katayama T, Prins P. Metadata handling for BioHackathon publications through BioHackrXiv. *BioHackrXiv*. Published online February 21, 2024. doi:10.37044/osf.io/qvftj
+1. Willighagen E, **Ohta T**, Castro LJ, Prins P. CiTO support for BioHackrXiv. *BioHackrXiv*. Published online February 2, 2023. doi:10.37044/osf.io/6rjvc
+1. Prins P, **Ohta T**, Castro LJ, Katayama T. Metadata for BioHackrXiv Markdown publications. *BioHackrXiv*. Published online November 29, 2022. doi:10.37044/osf.io/ueqkj
+1. Suetake H, Fukusato T, Igarashi T, **Ohta T**. A workflow reproducibility scale for automatic validation of biological interpretation results. *bioRxiv*. Published online October 13, 2022. doi:10.1101/2022.10.11.511695
+1. Suetake H, Fukusato T, Igarashi T, **Ohta T**. Workflow sharing with automated metadata validation and test execution to improve the reusability of published workflows. *bioRxiv*. Published online July 10, 2022. doi:10.1101/2022.07.08.499265
+1. Castro LJ, Bolleman J, Dumontier M, Jupp S, Labra-Gayo JE, Liener T, **Ohta T**, Queralt-Rosinach N, Wu C. Data validation and schema interoperability. *BioHackrXiv*. Published online April 7, 2020. doi:10.37044/osf.io/8qdse
+1. Amariuta T, Ishigaki K, Sugishita H, **Ohta T**, Matsuda K, Murakami Y, Price AL, Kawakami E, Terao C, Raychaudhuri S. *In silico* integration of thousands of epigenetic datasets into 707 cell type regulatory annotations improves the trans-ethnic portability of polygenic risk scores. *bioRxiv*. Published online February 25, 2020. doi:10.1101/2020.02.21.959510
+1. **Ohta T**, Tanjo T, Ogasawara O. Accumulating computational resource usage of genomic data analysis workflow to optimize cloud computing instance selection. *bioRxiv*. Published online October 30, 2018. doi:10.1101/456756
+1. Oki S, **Ohta T**, Shioi G, Hatanaka H, Ogasawara O, Okuda Y, Kawaji H, Nakaki R, Sese J, Meno C. Integrative analysis of transcription factor occupancy at enhancers and disease risk loci in noncoding genomic regions. *bioRxiv*. Published online February 9, 2018. doi:10.1101/262899
+1. **Ohta T**, Kawashima T, Shinozaki NO, Dobashi A, Hiraoka S, Hoshino T, Kanno K, Kataoka T, Kawashima S, Matsui M, Nemoto W, Nishijima S, Suganuma N, Suzuki H, Taguchi Y-h, Takenaka Y, Tanigawa Y, Tsuneyoshi M, Yoshitake K, Sato Y, Yamashita R, Arakawa K, Iwasaki W. Collaborative environmental DNA sampling from petal surfaces of flowering cherry *Cerasus × yedoensis* ‘Somei-yoshino’ across the Japanese archipelago. *bioRxiv*. Published online July 19, 2017. doi:10.1101/165522
 
 ## Invited Talk
 
