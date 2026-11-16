@@ -2,3 +2,4 @@
 # preprint lists. Keeping them here stops bin/orcid_sync.sh from proposing them
 # again. One DOI per line, with the reason after '#'.
 10.1007/978-1-0716-2996-3_2  # book chapter, listed by hand under 著書 / Book
+10.37044/osf.io/vxgka  # unversioned DOI of the same preprint as 10.37044/osf.io/vxgka_v1

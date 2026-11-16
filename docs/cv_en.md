@@ -64,6 +64,10 @@ Tazro Ohta, Ph.D.
 
 ## Preprints
 
+1. Oishi S, Hiraide M, Kawaguchi T, Ogata M, Masuyama K, **Ohta T**, Hori Y, Hanai A. Automated Generation and AI-Prioritized Legal Evaluation of 7488 Pharmacist National Examination Items on Pharmacy Law, Institutional Systems, and Ethics: A Development and Feasibility Study (Preprint). *JMIR Medical Education*. Published online October 27, 2026. doi:10.2196/preprints.115452
+1. Willighagen E, Prins P, **Ohta T**. BioHackrXiv: Hacking for better PDFs. *BioHackrXiv*. Published online October 13, 2026. doi:10.37044/osf.io/vxgka_v1
+1. Ikeda S, Fàbrega N, Suetake H, **Ohta T**. DBCLS BioHackathon 2026 report: An interactive, harmonised BioSample metadata resource for biological sample discovery. *BioHackrXiv*. Published online October 10, 2026. doi:10.37044/osf.io/hm9fn_v1
+1. Isaac A, Willighagen E, **Ohta T**, Katayama T, Prins P. BioHackrXiv: Creating a federated publishing platform. *BioHackrXiv*. Published online September 22, 2026. doi:10.37044/osf.io/jh3m7_v1
 1. **Ohta T**, Harris NL, Carbon S. AI-assisted pre-review of open-source software submissions: an experience report from BOSC 2026. *arXiv*. Preprint posted online 2026. doi:10.48550/ARXIV.2607.27228
 1. Sugimoto H, Tsuyuzaki K, Zou Z, Oki S, **Ohta T**, Kawakami E. Uncertainty-aware transcription factor activity and perturbation inference without additional training. *bioRxiv*. Published online October 6, 2025. doi:10.1101/2025.10.05.680506
 1. Harris NL, Hokamp K, Maia J, Ménager H, Munoz-Torres MC, **Ohta T**, Unni D, Williams J. BOSC 2025, the 26th Bioinformatics Open Source Conference. F1000Research. 2025;14:887. doi:10.12688/f1000research.169977.1

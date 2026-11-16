@@ -65,6 +65,10 @@
 
 ## プレプリント
 
+1. Oishi S, Hiraide M, Kawaguchi T, Ogata M, Masuyama K, **Ohta T**, Hori Y, Hanai A. Automated Generation and AI-Prioritized Legal Evaluation of 7488 Pharmacist National Examination Items on Pharmacy Law, Institutional Systems, and Ethics: A Development and Feasibility Study (Preprint). *JMIR Medical Education*. Published online October 27, 2026. doi:10.2196/preprints.115452
+1. Willighagen E, Prins P, **Ohta T**. BioHackrXiv: Hacking for better PDFs. *BioHackrXiv*. Published online October 13, 2026. doi:10.37044/osf.io/vxgka_v1
+1. Ikeda S, Fàbrega N, Suetake H, **Ohta T**. DBCLS BioHackathon 2026 report: An interactive, harmonised BioSample metadata resource for biological sample discovery. *BioHackrXiv*. Published online October 10, 2026. doi:10.37044/osf.io/hm9fn_v1
+1. Isaac A, Willighagen E, **Ohta T**, Katayama T, Prins P. BioHackrXiv: Creating a federated publishing platform. *BioHackrXiv*. Published online September 22, 2026. doi:10.37044/osf.io/jh3m7_v1
 1. **Ohta T**, Harris NL, Carbon S. AI-assisted pre-review of open-source software submissions: an experience report from BOSC 2026. *arXiv*. Preprint posted online 2026. doi:10.48550/ARXIV.2607.27228
 1. Sugimoto H, Tsuyuzaki K, Zou Z, Oki S, **Ohta T**, Kawakami E. Uncertainty-aware transcription factor activity and perturbation inference without additional training. *bioRxiv*. Published online October 6, 2025. doi:10.1101/2025.10.05.680506
 1. Harris NL, Hokamp K, Maia J, Ménager H, Munoz-Torres MC, **Ohta T**, Unni D, Williams J. BOSC 2025, the 26th Bioinformatics Open Source Conference. F1000Research. 2025;14:887. doi:10.12688/f1000research.169977.1
@@ -111,6 +115,9 @@
 
 ## 学会/研究会 口頭発表
 
+1. **大田達郎**, 八谷剛史, 川上英良. "薬理ゲノム研究におけるAIの活用", 第10回 日本臨床薬理学会 関東・甲信越地方会 シンポジウム「精神科薬理ゲノム研究の社会実装」 (2026/09/05)
+1. **Tazro Ohta**. "Playback MedHackathon Asia 2025", MedHackathon Asia 2026 (2026/07/27)
+1. **Tazro Ohta**. "Knowledge graph and GA4GH Cloud workstream", MedHackathon Asia 2025 (2025/02/06)
 1. **Tazro Ohta**, Hirotaka Suetake. "Advancing Workflow Automation - Insights from Workflow Execution Service and the Common Workflow Language", Common Workflow Language Conference 2024 (CWLcon2024) (2024/05/15)
 1. **Tazro Ohta**, Hirotaka Suetake. "Tonkaz: A workflow reproducibility scale for automatic validation of biological interpretation results", Bioinformatics Open Source Conference COSI, The 31st Annual  Intelligent Systems For Molecular Biology and the 22nd Annual European Conference on Computational Biology (ISMB/ECCB 2023) (2023/07/25)
 1. **Tazro Ohta**. "Sapporo: A GA4GH WES implementation for multiple workflow languages", Federated Compute, GA4GH CONNECT 2023 (2023/04/19)
@@ -145,12 +152,14 @@
 
 ## 学会活動・社会活動
 
+1. Global Alliance for Genomics and Health (GA4GH) Plenary 2026 Programme committee (2026)
+1. MedHackathon Asia オーガナイザー (2025-)
 1. Bioinformatics Open Source Conference (BOSC) Organizer (2025-)
 1. Global Alliance for Genomics and Health Cloud Work Stream Workflow Execution Service API Standard Co-lead (2024-)
 1. BioHackathon Europe Programme committee (2021-)
 1. BioHackathon MENA 2023 (2023/02/07-11) Programme committee
 1. COVID-19 virtual BioHackathon (2020/04/05-11) Organizer
-1. Bioinformatics Community Conference Program committee (2020-)
+1. Bioinformatics Community Conference Program committee (2020)
 1. DBCLS BioHackathon オーガナイザー (2017-)
 1. 研究会・オープンソースコミュニティ "Pitagora Network" 主宰 (2014-)
 1. NGS現場の会 第4回研究会 (2015/07/01-03) 世話人・企画担当
@@ -158,6 +167,7 @@
 
 ## 講習会
 
+1. 「生命科学分野におけるナレッジグラフとオントロジー」 統合データベース講習会：AJACS「生命科学分野におけるナレッジグラフとオントロジーを知って・学んで・使う」 (2025/06/26)
 1. 「次世代シーケンスデータベース」 統合データベース講習会：AJACS 十勝2 (AJACS79), (2019/09/25)
 1. 「次世代シーケンスデータベースの使い方」統合データベース講習会:AJACS京都2 (AJACS62), (2016/09/02)
 1. 「軽量仮想環境を用いてNGSデータの解析再現性を担保する」第31回 DDBJing 講習会 in 東京 (2015/06/12)
