@@ -19,6 +19,7 @@ CV は日英2ファイルあり、**論文・プレプリント節は両ファ�
 | `bin/orcid_sync.sh` | ORCID と `data/*_doi.txt` の差分を表示する（読み取り専用） |
 | `bin/resolve_doi.sh` | DOI リストを Markdown の引用行に変換する |
 | `bin/check_cv.sh` | 重複・日英のずれ・DOI リストと本文の食い違いを検査する |
+| `bin/make_nophoto.sh` | 顔写真なし版 `docs/cv_nophoto.md` / `docs/cv_en_nophoto.md` を生成する。生成物は git 管理外で、PDF ビルド時に自動生成される。手で編集しない |
 
 作業の最後は必ず `sh bin/check_cv.sh` が `0 problem(s)` で終わること。
 
